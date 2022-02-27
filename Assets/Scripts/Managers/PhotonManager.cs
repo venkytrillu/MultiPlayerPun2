@@ -25,10 +25,16 @@ public class PhotonManager : MonoBehaviourPunCallbacks
         PhotonNetwork.ConnectUsingSettings();
     }
 
+    public void StartGame()
+    {
+        PhotonNetwork.LoadLevel(1);
+    }
+    
     public override void OnConnectedToMaster()
     {
         // Debug.Log("On Connected To Master");
         PhotonNetwork.JoinLobby();
+        PhotonNetwork.AutomaticallySyncScene = true;
     }
 
     public override void OnJoinedLobby()
@@ -107,5 +113,19 @@ public class PhotonManager : MonoBehaviourPunCallbacks
     public string LocalPlayerID()
     {
         return PhotonNetwork.LocalPlayer.UserId;
+    }
+
+    public bool IsHost()
+    {
+        return PhotonNetwork.IsMasterClient;
+    }
+
+    public override void OnMasterClientSwitched(Player newMasterClient)
+    {
+        var roomMenu = UIMenuManager.Instance.GetMenu(MenuType.RoomMenu) as IUIRoomMenu;
+        if (roomMenu != null)
+        {
+            roomMenu.SetStartButtonState(IsHost());
+        }
     }
 }
