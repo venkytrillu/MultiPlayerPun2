@@ -18,7 +18,7 @@ public class UIRoomMenu : MenuPanel, IUIRoom, IUIRoomMenu
     {
         if (PhotonManager.Instance != null)
         {
-            PhotonManager.Instance.GetCurrentRoomName();
+            SetName(PhotonManager.Instance.GetCurrentRoomName());
             SetStartButtonState(PhotonManager.Instance.IsHost());
         }
     }

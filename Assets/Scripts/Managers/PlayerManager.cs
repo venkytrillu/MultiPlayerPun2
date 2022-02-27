@@ -1,18 +1,32 @@
-using System.Collections;
-using System.Collections.Generic;
+using System;
+using System.IO;
+using Menus.Interfaces;
+using Photon.Pun;
 using UnityEngine;
 
-public class PlayerManager : MonoBehaviour
+namespace Managers
 {
-    // Start is called before the first frame update
-    void Start()
+    public class PlayerManager : MonoBehaviour, IPlayerManager
     {
-        
-    }
+        private PhotonView _photonView;
 
-    // Update is called once per frame
-    void Update()
-    {
-        
+        private void Awake()
+        {
+            _photonView = GetComponent<PhotonView>();
+        }
+
+        private void Start()
+        {
+            if (_photonView.IsMine)
+            {
+                CreatePlayerController();
+            }
+        }
+
+        public void CreatePlayerController()
+        {
+            PhotonNetwork.Instantiate(Path.Combine(Helper.PhotonPrefabs, Helper.PlayerController), Vector3.one,
+                Quaternion.identity);
+        }
     }
 }
