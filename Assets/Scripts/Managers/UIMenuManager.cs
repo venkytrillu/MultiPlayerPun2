@@ -7,7 +7,7 @@ using UnityEngine;
 public class UIMenuManager : GenericSingletonClass<UIMenuManager>, IUIManager
 {
     [SerializeField] private List<MenuPanel> _menuPanels = new List<MenuPanel>();
-
+    
     private void Start()
     {
         OpenMenu(MenuType.LoadingMenu);

@@ -12,7 +12,8 @@ public enum MenuType
     ErrorMenu,
     FindRoomMenu
 }
-public static class Helper 
+public static class Helper
 {
-    
+    public static string PlayerManager = "PlayerManager";
+    public static string PhotonPrefabs = "PhotonPrefabs";
 }

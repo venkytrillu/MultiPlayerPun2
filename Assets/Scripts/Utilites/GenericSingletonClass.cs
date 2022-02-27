@@ -2,6 +2,7 @@
 
 public class GenericSingletonClass<T> : MonoBehaviour where T : Component
 {
+    [SerializeField] private bool IsDontDestroyOnLoad = false;
     private static T instance;
     public static T Instance {
         get {
@@ -21,7 +22,10 @@ public class GenericSingletonClass<T> : MonoBehaviour where T : Component
     {
         if (instance == null) {
             instance = this as T;
-           // DontDestroyOnLoad (this.gameObject);
+            if (IsDontDestroyOnLoad)
+            {
+                DontDestroyOnLoad (this.gameObject);
+            }
         } else {
             Destroy (gameObject);
         }
