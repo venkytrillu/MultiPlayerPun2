@@ -1,12 +1,14 @@
 using System.Collections.Generic;
+using ExitGames.Client.Photon;
 using Photon.Pun;
 using Photon.Realtime;
+using UnityEngine;
 using Random = UnityEngine.Random;
 
 public class PhotonManager : MonoBehaviourPunCallbacks
 {
     public static PhotonManager Instance { get; private set; }
-
+    UIMainMenu mainMenu = null;
     private void Awake()
     {
         if (Instance == null)
@@ -21,26 +23,37 @@ public class PhotonManager : MonoBehaviourPunCallbacks
 
     private void Start()
     {
-        //Debug.Log("Connecting To Master");
         PhotonNetwork.ConnectUsingSettings();
+        mainMenu = (UIMainMenu) UIMenuManager.Instance.GetMenu(MenuType.MainMenu);
+        bind();
     }
 
+    private void bind()
+    {
+        unbind();
+        mainMenu.OnPlayerNameChanged += setPlayerName;
+    }
+
+    private void unbind()
+    {
+        mainMenu.OnPlayerNameChanged -= setPlayerName;
+    }
+    
     public void StartGame()
     {
         PhotonNetwork.LoadLevel(1);
     }
-    
+
     public override void OnConnectedToMaster()
     {
-        // Debug.Log("On Connected To Master");
+        //Debug.Log("On Connected To Master");
         PhotonNetwork.JoinLobby();
         PhotonNetwork.AutomaticallySyncScene = true;
     }
 
     public override void OnJoinedLobby()
     {
-        // Debug.Log("Joined Lobby");
-        PhotonNetwork.NickName = "Player - " + Random.Range(0, int.MaxValue).ToString("00000");
+        //Debug.Log("Joined Lobby");
         UIMenuManager.Instance.OpenMenu(MenuType.MainMenu);
     }
 
@@ -62,6 +75,11 @@ public class PhotonManager : MonoBehaviourPunCallbacks
 
     public override void OnJoinedRoom()
     {
+        if(string.IsNullOrWhiteSpace(PhotonNetwork.NickName))
+        {
+            PhotonNetwork.NickName = "Player - " + Random.Range(0, int.MaxValue).ToString("00000");
+        }
+        
         UIMenuManager.Instance.OpenMenu(MenuType.RoomMenu);
 
         var playerList = PhotonNetwork.PlayerList;
@@ -70,6 +88,12 @@ public class PhotonManager : MonoBehaviourPunCallbacks
         {
             roomMenu.CreatePlayer(player);
         }
+        
+    }
+
+    private void setPlayerName(string playerName)
+    {
+        PhotonNetwork.NickName = playerName;
     }
 
     public string GetCurrentRoomName()

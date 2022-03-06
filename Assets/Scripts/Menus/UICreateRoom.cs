@@ -11,10 +11,17 @@ public class UICreateRoom : MenuPanel, IUIRoom
     [SerializeField] private TMP_InputField _inputFieldCreateRoom; 
     
     [SerializeField] private Button _createRoomBtn;
+    [SerializeField] private Button _backBtn;
    
     private void Start()
     {
         _createRoomBtn.onClick.AddListener(handleCreateRoom);
+        _backBtn.onClick.AddListener(handleBackRoom);
+    }
+    
+    private void handleBackRoom()
+    {
+        UIMenuManager.Instance.OpenMenu(MenuType.MainMenu);
     }
 
     private void handleCreateRoom()

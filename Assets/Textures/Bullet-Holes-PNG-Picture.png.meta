@@ -1,0 +1,1280 @@
+fileFormatVersion: 2
+guid: d66990cdc2839714cbfffee0e765587e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6834874634111894306
+    second: Bullet-Holes-PNG-Picture_0
+  - first:
+      213: 2335812702297105170
+    second: Bullet-Holes-PNG-Picture_1
+  - first:
+      213: 2744836394731410900
+    second: Bullet-Holes-PNG-Picture_2
+  - first:
+      213: 2659486775287392810
+    second: Bullet-Holes-PNG-Picture_3
+  - first:
+      213: 3334703432537276099
+    second: Bullet-Holes-PNG-Picture_4
+  - first:
+      213: -3813362589539032723
+    second: Bullet-Holes-PNG-Picture_5
+  - first:
+      213: -8679271919205183986
+    second: Bullet-Holes-PNG-Picture_6
+  - first:
+      213: 4102124687163425868
+    second: Bullet-Holes-PNG-Picture_7
+  - first:
+      213: -8339651550433391442
+    second: Bullet-Holes-PNG-Picture_8
+  - first:
+      213: -5081268692155343477
+    second: Bullet-Holes-PNG-Picture_9
+  - first:
+      213: 8570430928550157356
+    second: Bullet-Holes-PNG-Picture_10
+  - first:
+      213: 8539447420209642494
+    second: Bullet-Holes-PNG-Picture_11
+  - first:
+      213: 9067697457316080086
+    second: Bullet-Holes-PNG-Picture_12
+  - first:
+      213: -6395023420943594557
+    second: Bullet-Holes-PNG-Picture_13
+  - first:
+      213: 3572188815096171558
+    second: Bullet-Holes-PNG-Picture_14
+  - first:
+      213: -3762948596345961889
+    second: Bullet-Holes-PNG-Picture_15
+  - first:
+      213: 3138301897339000973
+    second: Bullet-Holes-PNG-Picture_16
+  - first:
+      213: -7258311378965542432
+    second: Bullet-Holes-PNG-Picture_17
+  - first:
+      213: -6883025589395414367
+    second: Bullet-Holes-PNG-Picture_18
+  - first:
+      213: -2521250561647927931
+    second: Bullet-Holes-PNG-Picture_19
+  - first:
+      213: 9015380752428693886
+    second: Bullet-Holes-PNG-Picture_20
+  - first:
+      213: 8512963322733127602
+    second: Bullet-Holes-PNG-Picture_21
+  - first:
+      213: 7169350831460593547
+    second: Bullet-Holes-PNG-Picture_22
+  - first:
+      213: -2846894338991537385
+    second: Bullet-Holes-PNG-Picture_23
+  - first:
+      213: -680911487933158228
+    second: Bullet-Holes-PNG-Picture_24
+  - first:
+      213: -1180382350068713851
+    second: Bullet-Holes-PNG-Picture_25
+  - first:
+      213: -1738136200930183174
+    second: Bullet-Holes-PNG-Picture_26
+  - first:
+      213: -817628483020581109
+    second: Bullet-Holes-PNG-Picture_27
+  - first:
+      213: -4442618086779701928
+    second: Bullet-Holes-PNG-Picture_28
+  - first:
+      213: 4830548103110034236
+    second: Bullet-Holes-PNG-Picture_29
+  - first:
+      213: -7185090863878755066
+    second: Bullet-Holes-PNG-Picture_30
+  - first:
+      213: 84661487058257627
+    second: Bullet-Holes-PNG-Picture_31
+  - first:
+      213: 6595329207186808241
+    second: Bullet-Holes-PNG-Picture_32
+  - first:
+      213: 3572914429320950097
+    second: Bullet-Holes-PNG-Picture_33
+  - first:
+      213: -3387083478924646298
+    second: Bullet-Holes-PNG-Picture_34
+  - first:
+      213: -9172457305481773376
+    second: Bullet-Holes-PNG-Picture_35
+  - first:
+      213: -4367735755978666051
+    second: Bullet-Holes-PNG-Picture_36
+  - first:
+      213: -2813762583835345022
+    second: Bullet-Holes-PNG-Picture_37
+  - first:
+      213: 4284529350340681205
+    second: Bullet-Holes-PNG-Picture_38
+  - first:
+      213: -4584208979340719050
+    second: Bullet-Holes-PNG-Picture_39
+  - first:
+      213: 7617966575610463282
+    second: Bullet-Holes-PNG-Picture_40
+  - first:
+      213: -3953391770682218133
+    second: Bullet-Holes-PNG-Picture_41
+  - first:
+      213: -1287065204862686879
+    second: Bullet-Holes-PNG-Picture_42
+  - first:
+      213: 1753733425901908368
+    second: Bullet-Holes-PNG-Picture_43
+  - first:
+      213: 2200160603212125063
+    second: Bullet-Holes-PNG-Picture_44
+  - first:
+      213: -2241393164714545529
+    second: Bullet-Holes-PNG-Picture_45
+  - first:
+      213: 6552618234991175503
+    second: Bullet-Holes-PNG-Picture_46
+  - first:
+      213: -8373233214424875638
+    second: Bullet-Holes-PNG-Picture_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 663
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcbe65abb5a521a0800000000000000
+      internalID: -6834874634111894306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 677
+        width: 82
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213a34ee6497a6020800000000000000
+      internalID: 2335812702297105170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_2
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 681
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d59782882e971620800000000000000
+      internalID: 2744836394731410900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_3
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 710
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2aaadda12568e420800000000000000
+      internalID: 2659486775287392810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_4
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 649
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cef8a79a1f374e20800000000000000
+      internalID: 3334703432537276099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_5
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 659
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6123cacde6341bc0800000000000000
+      internalID: -3813362589539032723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_6
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 643
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e80ca9c280d8780800000000000000
+      internalID: -8679271919205183986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 565
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c448cb24bacade830800000000000000
+      internalID: 4102124687163425868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_8
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 568
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eacc1e9a91b934c80800000000000000
+      internalID: -8339651550433391442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_9
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 630
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d54c3db05bb79b0800000000000000
+      internalID: -5081268692155343477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_10
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 593
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cd04c758940f670800000000000000
+      internalID: 8570430928550157356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_11
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 588
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbb8bb4f26328670800000000000000
+      internalID: 8539447420209642494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_12
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 590
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9a9027bcee6dd70800000000000000
+      internalID: 9067697457316080086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_13
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 572
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb8a58b4105047a0800000000000000
+      internalID: -6395023420943594557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_14
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 456
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c4e621dc6f29130800000000000000
+      internalID: 3572188815096171558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_15
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 402
+        width: 141
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f528eb6403257cbc0800000000000000
+      internalID: -3762948596345961889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_16
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 448
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8853dcb2fc7d8b20800000000000000
+      internalID: 3138301897339000973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_17
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 514
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9459bc14c454b90800000000000000
+      internalID: -7258311378965542432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_18
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 458
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2a92cb1b49a70a0800000000000000
+      internalID: -6883025589395414367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_19
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 510
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d983be8f7b20dd0800000000000000
+      internalID: -2521250561647927931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 403
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79f76f57011d1d70800000000000000
+      internalID: 9015380752428693886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_21
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 378
+        width: 82
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7ef65d90f142670800000000000000
+      internalID: 8512963322733127602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_22
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 428
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f2c5ba896ae7360800000000000000
+      internalID: 7169350831460593547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_23
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 358
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713c653aeaccd78d0800000000000000
+      internalID: -2846894338991537385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_24
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 316
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cace24efb9aec86f0800000000000000
+      internalID: -680911487933158228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_25
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 324
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586730da1807e9fe0800000000000000
+      internalID: -1180382350068713851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_26
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 319
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af73f449556e0e7e0800000000000000
+      internalID: -1738136200930183174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_27
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 345
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0711570a3337a4f0800000000000000
+      internalID: -817628483020581109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_28
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 325
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85535c85366a852c0800000000000000
+      internalID: -4442618086779701928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_29
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 245
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c338f4c08ed890340800000000000000
+      internalID: 4830548103110034236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_30
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 245
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d2a937ded694c90800000000000000
+      internalID: -7185090863878755066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_31
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 222
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd683468c27cc2100800000000000000
+      internalID: 84661487058257627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_32
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 192
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdd02b68f0578b50800000000000000
+      internalID: 6595329207186808241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_33
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 251
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151fa8c4eba859130800000000000000
+      internalID: 3572914429320950097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_34
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 204
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6682a1e7589aef0d0800000000000000
+      internalID: -3387083478924646298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_35
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 101
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce725dada2e4b080800000000000000
+      internalID: -9172457305481773376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_36
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 141
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf8e10a87fa263c0800000000000000
+      internalID: -4367735755978666051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_37
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 93
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f753486d183f8d0800000000000000
+      internalID: -2813762583835345022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_38
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 140
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd9ac46eb4b57b30800000000000000
+      internalID: 4284529350340681205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_39
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 140
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c8d32b83e9160c0800000000000000
+      internalID: -4584208979340719050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_40
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 94
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2348f022d3478b960800000000000000
+      internalID: 7617966575610463282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_41
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 108
+        width: 82
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69a88a612bb229c0800000000000000
+      internalID: -3953391770682218133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_42
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 23
+        width: 82
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169e46de30d632ee0800000000000000
+      internalID: -1287065204862686879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_43
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091bc995243865810800000000000000
+      internalID: 1753733425901908368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_44
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 55
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7839443696a888e10800000000000000
+      internalID: 2200160603212125063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_45
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 42
+        width: 78
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e6337cac8f4e0e0800000000000000
+      internalID: -2241393164714545529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_46
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 0
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47656541939fea50800000000000000
+      internalID: 6552618234991175503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet-Holes-PNG-Picture_47
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 50
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8df3b831cc4ccb80800000000000000
+      internalID: -8373233214424875638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3acb3a400f6df9e4aa6d8a9418be944f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
